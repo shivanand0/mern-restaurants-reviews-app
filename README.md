@@ -1,0 +1,1 @@
+Restaurtants reviews web app created using MERN stack, used sample database(sample-restaurants) from mongodb atlas
